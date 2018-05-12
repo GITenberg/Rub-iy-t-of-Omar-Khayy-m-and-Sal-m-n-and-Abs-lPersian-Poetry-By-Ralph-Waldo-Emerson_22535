@@ -1,0 +1,55 @@
+_repo: Rub-iy-t-of-Omar-Khayy-m-and-Sal-m-n-and-Abs-lPersian-Poetry-By-Ralph-Waldo-Emerson_22535
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+covers:
+- cover_type: archival
+  image_path: 22535-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Jami
+    alias: Jami, Nur al-Din 'Abd al-Rahman
+    birthdate: 1414
+    deathdate: 1492
+    gutenberg_agent_id: '25391'
+    url: http://www.gutenberg.org/2009/agents/25391
+    wikipedia: http://en.wikipedia.org/wiki/Jami
+  - agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+  - agent_name: Omar Khayyam
+    alias: Khayyam, Omar
+    birthdate: 1048
+    deathdate: 1122
+    gutenberg_agent_id: '1787'
+    url: http://www.gutenberg.org/2009/agents/1787
+    wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
+description: ''
+gutenberg_issued: '2007-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Persian poetry -- Translations into English'
+title: "Rubáiyát of Omar Khayyám, and Salámán and Absál\r\nTogether with a Life of\
+  \ Edward Fitzgerald and an Essay on Persian Poetry by Ralph Waldo Emerson"
+url: http://www.gutenberg.org/ebooks/22535
