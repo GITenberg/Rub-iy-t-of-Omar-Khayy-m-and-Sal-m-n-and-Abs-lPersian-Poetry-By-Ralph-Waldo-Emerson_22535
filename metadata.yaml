@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1787
     wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22535#Rub-iy-t-of-Omar-Khayy-m-and-Sal-m-n-and-Abs-lPersian-Poetry-By-Ralph-Waldo-Emerson
 gutenberg_issued: '2007-09-07'
 gutenberg_type: Text
 identifiers:
